@@ -1,7 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
 .corgi {
     border-style: groove;
-    border-color: red;
-    border-width: 20px;
+    border-color: orange;
+    border-width: 3px;
+    border-radius: 10%;
+}
 
+.quote {
+    direction: rtl;
+}
 
+.lovelyCorgi {
+    visibility: hidden;
+}
+
+:root {
+    background: url(pastelOrange.jpg);
+    opacity: 2;
+}
+.corgifact{
+    background: rgba(255, 115, 0, 0.76);
+    padding: 10px;
+    margin-bottom: 36px;
+    column-count: 3; 
+ 
+  }
+  .corgifact>p {
+    margin: 0px;
+    border-right: 1px solid #ff00ff;
+}
+
+h1 {
+    font-family:  'Bungee Spice', cursive;
+    font-size: 6rem;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Shantell Sans', cursive;
+    font-size: 3rem;
+    color:darkred;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Shantell Sans', cursive;
+    font-size: 1rem;
+    color:darkred;
+}
+
+p {
+    font-family: 'Golos Text', sans-serif;
+    color:darkred;
+}
+
+h5 {
+    font-family: 'Golos Text', sans-serif;
+    color:darkred;
+}
+.ulcorgi {
+    font-family: 'Golos Text', sans-serif;
+    color:darkred; 
+}
+.discount {
+    font-family: 'Golos Text', sans-serif;
+    color:darkred; 
+}
+.usd {
+    text-decoration: underline;
 }
