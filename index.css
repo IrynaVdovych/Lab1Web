@@ -23,15 +23,15 @@
     opacity: 2;
 }
 .corgifact{
-    background: rgba(255, 115, 0, 0.76);
+    background: rgba(255, 115, 0, 0.116);
     padding: 10px;
     margin-bottom: 36px;
     column-count: 3; 
  
   }
   .corgifact>p {
-    margin: 0px;
-    border-right: 1px solid #ff00ff;
+    margin: 10px;
+    border-right: 1px solid #ff7300;
 }
 
 h1 {
